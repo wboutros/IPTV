@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="LB" tvg-logo="" group-title="Lebanon",Nour Sat
+http://iptv.allkaicerteam.com:8080/kaicer_VIP5uavs6/pgdkmv/3036
 #EXTINF:-1 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Mayadeen
